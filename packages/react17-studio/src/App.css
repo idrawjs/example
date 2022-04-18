@@ -1,0 +1,7 @@
+@import 'antd/dist/antd.css';
+@import '@idraw/studio/dist/css/index.css';
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
